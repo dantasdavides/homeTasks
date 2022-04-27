@@ -26,6 +26,14 @@ Testes
 -via interface da aplicação é possível testar a ferramenta fazendo inserção, edição e exclusão dos dados do formulário.
 
 
+Versão
+
+- A aplicação se encontra na versão 1.0. Para versões disponíveis, observe a tags neste repositório.
+
+
+autor
+
+- David Dantas
 
 
 
