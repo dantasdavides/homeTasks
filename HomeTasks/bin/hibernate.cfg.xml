@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-configuration xmlns="urn:nhibernate-configuration-2.2">
+	<session-factory name="NHibernate">
+		<property name="connection.provider">NHibernate.Connection.DriverConnectionProvider</property>
+		<property name="dialect">NHibernate.Dialect.MsSql2008Dialect</property>
+		<property name="connection.driver_class">NHibernate.Driver.SqlClientDriver</property>
+		<property name="connection.connection_string">Server=127.0.0.1;Data Source=DAVIDEMPRESA;Database=HomeTasksBD;Uid=sa;Pwd=fut890*();</property>
+		<property name="proxyfactory.factory_class">NHibernate.ByteCode.LinFu.ProxyFactoryFactory, NHibernate.ByteCode.LinFu</property>
+		<property name="current_session_context_class">web</property>
+		<property name="show_sql">true</property>
+		<mapping resource="HomeTasks.Repositorio.Mapeamento.Tarefas.hbm.xml" assembly="HomeTasks.Repositorio" />		
+	</session-factory>
+</hibernate-configuration>
