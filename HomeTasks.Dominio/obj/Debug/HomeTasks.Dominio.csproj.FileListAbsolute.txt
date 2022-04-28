@@ -1,0 +1,6 @@
+E:\projetos\HomeTasks\HomeTasks.Dominio\bin\Debug\HomeTasks.Dominio.dll
+E:\projetos\HomeTasks\HomeTasks.Dominio\bin\Debug\HomeTasks.Dominio.pdb
+E:\projetos\HomeTasks\HomeTasks.Dominio\obj\Debug\HomeTasks.Dominio.csproj.CoreCompileInputs.cache
+E:\projetos\HomeTasks\HomeTasks.Dominio\obj\Debug\HomeTasks.Dominio.dll
+E:\projetos\HomeTasks\HomeTasks.Dominio\obj\Debug\HomeTasks.Dominio.pdb
+E:\projetos\HomeTasks\HomeTasks.Dominio\obj\Debug\HomeTasks.Dominio.csproj.AssemblyReference.cache

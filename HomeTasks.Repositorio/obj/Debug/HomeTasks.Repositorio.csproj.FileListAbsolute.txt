@@ -1,0 +1,9 @@
+E:\projetos\HomeTasks\HomeTasks.Repositorio\bin\Debug\HomeTasks.Repositorio.dll
+E:\projetos\HomeTasks\HomeTasks.Repositorio\bin\Debug\HomeTasks.Repositorio.pdb
+E:\projetos\HomeTasks\HomeTasks.Repositorio\obj\Debug\HomeTasks.Repositorio.csproj.CoreCompileInputs.cache
+E:\projetos\HomeTasks\HomeTasks.Repositorio\obj\Debug\HomeTasks.Repositorio.csproj.CopyComplete
+E:\projetos\HomeTasks\HomeTasks.Repositorio\obj\Debug\HomeTasks.Repositorio.dll
+E:\projetos\HomeTasks\HomeTasks.Repositorio\obj\Debug\HomeTasks.Repositorio.pdb
+E:\projetos\HomeTasks\HomeTasks.Repositorio\bin\Debug\HomeTasks.Dominio.dll
+E:\projetos\HomeTasks\HomeTasks.Repositorio\bin\Debug\HomeTasks.Dominio.pdb
+E:\projetos\HomeTasks\HomeTasks.Repositorio\obj\Debug\HomeTasks.Repositorio.csproj.AssemblyReference.cache

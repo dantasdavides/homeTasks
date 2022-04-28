@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping xmlns="urn:nhibernate-mapping-2.2" auto-import="true">
+	<class name="HomeTasks.Dominio.Entidades.Tarefas,HomeTasks.Dominio" lazy="false">
+		<id name="Id" column="Id" type="Int64" unsaved-value="0">
+			<generator class="native"/>
+		</id>		
+		<property name="Descricao" column="Descricao" type="String" length="200" not-null="false"/>
+		<property name="DataCriacao" column="DataCriacao" type="DateTime" not-null="false"/>
+	</class>
+</hibernate-mapping>
